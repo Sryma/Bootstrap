@@ -1,0 +1,36 @@
+/*         Just for demo     */
+body {
+  padding: 10px;
+  text-align: center;
+  background-color: black!important;
+  color: pink!important;
+
+}
+/*.nav-link,.navbar-brand{
+	background-color: orange!important;
+	font-size: 20px;
+}*/
+ .card-text{
+	color: red!important;
+	font-weight: 700;
+	font-size: 40px;
+}
+.col-sm-8,.col-sm-4,.col-sm{
+	
+	background-color: black;
+	opacity: 0.9;
+	margin-bottom: 1px;
+	text-align: justify;
+	border: 1px solid blue;
+	color: white;
+  font-weight: 700;
+}
+.make{
+	color: orange;
+	font-weight: bold;
+}
+img .card-image{
+	opacity: 0.7;
+	transition: .5s transform,
+              .5s opacity;
+}
